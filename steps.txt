@@ -1,0 +1,10 @@
+Steps to install jupter in vscode:
+- Create a folder then open in vscode
+- open terminal with the folder location & run below cmd
+- Install jupter extension by microsoft
+- pip install notebook jupyterlab ipykernel
+- Useful shortcuts:
+- B : to add new cell
+- D, D(double press D) : to delete current cell
+- Ctrl + Enter : Current cell run karo, cursor wahi rukega 
+- 
