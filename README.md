@@ -105,12 +105,12 @@ graph TD
 
 ### 📈 Recommended Learning Path
 
-| Phase | Duration | Focus Area | Notebooks |
-|-------|----------|------------|-----------|
-| **Phase 1** | 2-3 days | NumPy Basics | A, B, C |
-| **Phase 2** | 3-4 days | Array Manipulation | D, E, F |
-| **Phase 3** | 2-3 days | Indexing & Slicing | indexing_slicing_* |
-| **Phase 4** | 3-4 days | Operations Mastery | A.Operation_* |
+| Phase | Duration | Focus Area | 
+|-------|----------|------------|
+| **Phase 1** | 2-3 days | NumPy Basics | 
+| **Phase 2** | 3-4 days | Array Manipulation | 
+| **Phase 3** | 2-3 days | Indexing & Slicing | 
+| **Phase 4** | 3-4 days | Operations Mastery | 
 
 ---
 
