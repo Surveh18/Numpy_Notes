@@ -152,14 +152,6 @@ We welcome contributions! Here's how you can help:
 
 ---
 
-## 📊 Repository Stats
-
-![GitHub stars](https://img.shields.io/github/stars/Surveh18/numpy-mastery-hub?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Surveh18/numpy-mastery-hub?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/Surveh18/numpy-mastery-hub?style=social)
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -183,14 +175,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 *Made with ❤️ for the Python community*
 
 </div>
-
----
-
-## 📞 Connect & Support
-
-- 💬 **Questions?** Open an [issue](https://github.com/Surveh18/numpy-mastery-hub/issues)
-- 🐛 **Bug reports?** Create a [bug report](https://github.com/Surveh18/numpy-mastery-hub/issues/new)
-- 💡 **Feature requests?** Submit a [feature request](https://github.com/Surveh18/numpy-mastery-hub/issues/new)
 
 ---
 
